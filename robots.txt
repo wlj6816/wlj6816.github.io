@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://wlj6816.github.io/sitemap.xml
