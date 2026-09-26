@@ -5,7 +5,7 @@ permalink: /
 subtitle: Associate Professor, <a href='https://www.swufe.edu.cn/'>Southwestern University of Finance and Economics</a>
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
