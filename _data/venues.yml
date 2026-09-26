@@ -1,24 +1,38 @@
+# Badge colors use Apple system colors; _includes/venue_badges.liquid turns each
+# into a light tint with same-hue text, so keep these hex values in sync with it.
 "NeurIPS":
-  color: "#6f42c1"
+  color: "#AF52DE" # purple
 "ICLR":
-  color: "#0d6efd"
+  color: "#007AFF" # blue
 "ACL":
-  color: "#dc3545"
+  color: "#FF3B30" # red
 "CVPR":
-  color: "#198754"
+  color: "#34C759" # green
 "ECCV":
-  color: "#198754"
+  color: "#34C759" # green
 "ACM MM":
-  color: "#fd7e14"
+  color: "#FF9500" # orange
 "TPAMI":
-  color: "#00369f"
+  color: "#5856D6" # indigo
 "AISTATS":
-  color: "#20c997"
+  color: "#30B0C7" # teal
 "ICCAD":
-  color: "#6c757d"
+  color: "#00C7BE" # mint
 "ICDM":
-  color: "#6c757d"
+  color: "#00C7BE" # mint
 "ICME":
-  color: "#6c757d"
+  color: "#00C7BE" # mint
+"PR":
+  color: "#FF2D55" # pink
+"NN":
+  color: "#FF2D55" # pink
+"KBS":
+  color: "#A2845E" # brown
+"Neurocomputing":
+  color: "#A2845E" # brown
+"SPL":
+  color: "#A2845E" # brown
+"CPC":
+  color: "#A2845E" # brown
 "arXiv":
-  color: "#b31b1b"
+  color: "#8E8E93" # gray

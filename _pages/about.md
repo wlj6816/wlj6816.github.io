@@ -102,3 +102,5 @@ I have published over 30 papers in top-tier journals and conferences, including 
     margin: 0;
   }
 </style>
+
+{% include venue_badges.liquid %}
