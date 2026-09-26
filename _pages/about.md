@@ -45,7 +45,8 @@ I have published over 30 papers in top-tier journals and conferences, including 
 <style>
   /* Home page: pin the photo + contact info in a left sidebar column on wide screens */
   @media (min-width: 992px) {
-    .container[role="main"] {
+    .container[role="main"],
+    #navbar > .container {
       max-width: 1200px;
     }
     .post {
@@ -73,5 +74,23 @@ I have published over 30 papers in top-tier journals and conferences, including 
     .post > article > .profile .more-info {
       text-align: left;
     }
+  }
+  .profile .more-info {
+    font-family: inherit;
+    font-size: 0.95rem;
+    line-height: 1.5;
+  }
+  .profile .more-info p {
+    margin: 0;
+  }
+  .post .alert-info {
+    background: var(--global-code-bg-color, rgba(0, 0, 0, 0.04));
+    border-left: 4px solid var(--global-theme-color);
+    border-radius: 6px;
+    padding: 0.9rem 1.1rem;
+    margin: 1.2rem 0;
+  }
+  .post .alert-info p {
+    margin: 0;
   }
 </style>
