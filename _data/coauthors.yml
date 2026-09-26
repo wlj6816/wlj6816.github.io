@@ -1,0 +1,4 @@
+# Link co-author names in the publication list to their homepages, e.g.
+# "xu":
+#   - firstname: ["Zenglin", "Z."]
+#     url: https://...

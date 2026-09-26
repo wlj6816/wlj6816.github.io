@@ -1,0 +1,77 @@
+cv:
+  name: Liangjian Wen
+  label: Associate Professor
+  email: wenlj@swufe.edu.cn
+  location: Chengdu, China
+  image: ""
+  summary: Associate Professor at the School of Computing and Artificial Intelligence, Southwestern University of Finance and Economics. Research on large language models, AI agents, multimodal learning, self-supervised learning, and AI for quantitative finance.
+
+  sections:
+    Education:
+      - institution: University of Electronic Science and Technology of China
+        location: Chengdu, China
+        url: https://www.uestc.edu.cn/
+        studyType: Ph.D. in Engineering
+        area: ""
+        start_date: 2016-09
+        end_date: 2021-06
+
+      - institution: University of Chinese Academy of Sciences
+        location: Beijing, China
+        url: https://www.ucas.ac.cn/
+        studyType: M.S.
+        area: ""
+        start_date: 2013-09
+        end_date: 2016-07
+
+    Experience:
+      - company: Southwestern University of Finance and Economics
+        position: Associate Professor, School of Computing and Artificial Intelligence
+        location: Chengdu, China
+        start_date: 2026-01
+        end_date: present
+
+      - company: Southwestern University of Finance and Economics
+        position: Lecturer, School of Computing and Artificial Intelligence
+        location: Chengdu, China
+        start_date: 2023-07
+        end_date: 2025-12
+
+      - company: Huawei Noah's Ark Lab
+        position: Researcher
+        location: China
+        start_date: 2021-07
+        end_date: 2023-06
+
+    Grants:
+      - name: Representation Learning Optimization and Generalization Based on the Information Bottleneck
+        summary: Fundamental Research Funds for the Central Universities, Young Faculty Growth Program (Principal Investigator)
+        start_date: 2026
+        end_date: present
+
+      - name: Similarity Learning for Complex Structured Data and Its Applications
+        summary: National Natural Science Foundation of China, Young Scientists Fund (No. 61806045) (Key Participant, completed)
+        start_date: 2019-01
+        end_date: 2021-12
+
+    Student Competition Awards (as Advisor):
+      - title: Third Prize (National), 21st Citi Cup Financial Innovation Application Competition
+        date: 2026
+      - title: Third Prize (National), 7th Global Campus AI Algorithm Elite Competition
+        date: 2025
+      - title: Second Prize (Provincial), 7th Global Campus AI Algorithm Elite Competition
+        date: 2025
+      - title: Third Prize (National), 20th Citi Cup Financial Innovation Application Competition
+        date: 2025
+      - title: Second Prize (Provincial), 11th National College Students' Statistical Modeling Competition, Sichuan Division
+        date: 2025
+      - title: Second Prize and Third Prize (Provincial), China Collegiate Computer Design Competition
+        date: 2025
+      - title: First Prize (Provincial), 10th National College Students' Statistical Modeling Competition, Sichuan Division
+        date: 2024
+
+    Research Interests:
+      - name: Large Language Models & AI Agents
+      - name: Multimodal Learning
+      - name: Representation Learning & Self-Supervised Learning
+      - name: AI for Quantitative Finance

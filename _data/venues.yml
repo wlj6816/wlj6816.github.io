@@ -1,0 +1,24 @@
+"NeurIPS":
+  color: "#6f42c1"
+"ICLR":
+  color: "#0d6efd"
+"ACL":
+  color: "#dc3545"
+"CVPR":
+  color: "#198754"
+"ECCV":
+  color: "#198754"
+"ACM MM":
+  color: "#fd7e14"
+"TPAMI":
+  color: "#00369f"
+"AISTATS":
+  color: "#20c997"
+"ICCAD":
+  color: "#6c757d"
+"ICDM":
+  color: "#6c757d"
+"ICME":
+  color: "#6c757d"
+"arXiv":
+  color: "#b31b1b"
