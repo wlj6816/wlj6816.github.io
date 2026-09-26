@@ -41,3 +41,37 @@ I have published over 30 papers in top-tier journals and conferences, including 
 <div class="alert alert-info" role="alert" markdown="1">
 **Join us.** I am committed to teaching and mentoring every student. Students interested in multimodal learning, large language models, AI agents, or self-supervised learning are welcome to apply for graduate study, and outstanding undergraduates are welcome to join the group. We value passion for research, self-motivation, a long-term commitment to steady effort, and a collaborative spirit. Please [email me](mailto:wenlj@swufe.edu.cn) — I will reply and arrange a conversation as soon as possible.
 </div>
+
+<style>
+  /* Home page: pin the photo + contact info in a left sidebar column on wide screens */
+  @media (min-width: 992px) {
+    .container[role="main"] {
+      max-width: 1200px;
+    }
+    .post {
+      display: grid;
+      grid-template-columns: 250px minmax(0, 1fr);
+      column-gap: 48px;
+      align-items: start;
+    }
+    .post > article {
+      display: contents;
+    }
+    .post > header,
+    .post > article > * {
+      grid-column: 2;
+    }
+    .post > article > .profile {
+      grid-column: 1;
+      grid-row: 1 / span 50;
+      position: sticky;
+      top: 90px;
+      float: none;
+      width: auto;
+      margin: 0;
+    }
+    .post > article > .profile .more-info {
+      text-align: left;
+    }
+  }
+</style>
