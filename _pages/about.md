@@ -9,10 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>School of Computing and Artificial Intelligence</p>
-    <p>Southwestern University of Finance and Economics</p>
-    <p>Chengdu, China</p>
-    <p>wenlj@swufe.edu.cn</p>
+    <p><a href="mailto:wlj6816@gmail.com">wlj6816@gmail.com</a></p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -39,7 +36,7 @@ My research interests include:
 I have published over 30 papers in top-tier journals and conferences, including TPAMI, NeurIPS, ICLR, ACL, CVPR, ECCV, and ICCAD.
 
 <div class="alert alert-info" role="alert" markdown="1">
-**Join us.** I am committed to teaching and mentoring every student. Students interested in multimodal learning, large language models, AI agents, or self-supervised learning are welcome to apply for graduate study, and outstanding undergraduates are welcome to join the group. We value passion for research, self-motivation, a long-term commitment to steady effort, and a collaborative spirit. Please [email me](mailto:wenlj@swufe.edu.cn) — I will reply and arrange a conversation as soon as possible.
+**Join us.** I am committed to teaching and mentoring every student. Students interested in multimodal learning, large language models, AI agents, or self-supervised learning are welcome to apply for graduate study, and outstanding undergraduates are welcome to join the group. We value passion for research, self-motivation, a long-term commitment to steady effort, and a collaborative spirit. Please [email me](mailto:wlj6816@gmail.com) — I will reply and arrange a conversation as soon as possible.
 </div>
 
 <style>
@@ -51,7 +48,7 @@ I have published over 30 papers in top-tier journals and conferences, including 
     }
     .post {
       display: grid;
-      grid-template-columns: 250px minmax(0, 1fr);
+      grid-template-columns: 190px minmax(0, 1fr);
       column-gap: 48px;
       align-items: start;
     }
