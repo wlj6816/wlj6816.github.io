@@ -2,12 +2,14 @@
 layout: page
 permalink: /publications/
 title: publications
-description: "* equal contribution, † corresponding author"
+description: publications in reverse chronological order
 nav: true
 nav_order: 1
 ---
 
 <!-- _pages/publications.md -->
+
+<p><strong>*</strong> Co-first authors (equal contribution) &nbsp;&nbsp; <strong>†</strong> Corresponding author</p>
 
 <!-- Bibsearch Feature -->
 

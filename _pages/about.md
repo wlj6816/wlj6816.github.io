@@ -9,6 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p>Chengdu, China</p>
     <p><a href="mailto:wlj6816@gmail.com">wlj6816@gmail.com</a></p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -79,6 +80,16 @@ I have published over 30 papers in top-tier journals and conferences, including 
   }
   .profile .more-info p {
     margin: 0;
+  }
+  /* Author-mark legend under the "selected publications" heading */
+  .post h2:has(> a[href$="/publications/"])::after {
+    content: "* Co-first authors (equal contribution)    † Corresponding author";
+    white-space: pre;
+    display: block;
+    margin-top: 0.3rem;
+    font-size: 0.9rem;
+    font-weight: 400;
+    opacity: 0.75;
   }
   .post .alert-info {
     background: var(--global-code-bg-color, rgba(0, 0, 0, 0.04));
