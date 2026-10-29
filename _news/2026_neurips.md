@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Two papers accepted to **NeurIPS 2026**: *HRIL* (isolating multimodal synergy via higher-order dependence) and *MSCR* (balancing modality utilization and discovering synergistic information). :tada:
+Two papers accepted to **NeurIPS 2026**: *HRIL* (learning multimodal synergy via higher-order tensor modeling) and *MSCR* (jointly balancing utilization across modalities and discovering synergistic information). :tada:
