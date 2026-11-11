@@ -14,7 +14,7 @@ I am always looking for motivated students interested in multimodal learning, la
 | Name                       | Research Topics & Achievements                                                                                                                                                                                          |
 | :------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Jiangtao Zheng** (2024–) | Multimodal learning and LLMs. Co-author of an **IEEE TPAMI** paper (online).                                                                                                                                                  |
-| **Qun Dai** (2025–)        | Multimodal learning and LLMs. Co-author of two **IEEE TPAMI** papers (online). Co-first author of a **NeurIPS 2025 Spotlight** paper.                                                                                                                                    |
+| **Qun Dai** (2025–)        | Multimodal learning and LLMs. Co-author of two **IEEE TPAMI** papers (online). First author of a **NeurIPS 2026** paper and co-first author of a **NeurIPS 2025 Spotlight** paper.                                                                                                                                    |
 | **Kaiqi Cen** (2025–)      | AI agents and LLMs.                                                                                                                                                                                                     |
 
 ## Alumni
